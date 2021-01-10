@@ -1,13 +1,11 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Natasha Naima Hussain"
+email: natasha1434@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Natasha Hussain is a university Math and Computer Science student. 
 baseurl: "/" 
-url: "/portfolio-template" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "https://NatashaNaima.github.io/" 
+twitter_username: NatashaNaima
+github_username:  NatashaNaima
 
 sass:
   sass_dir: _sass
